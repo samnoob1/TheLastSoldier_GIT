@@ -8,8 +8,8 @@ celui-ci est donc actuellement en stand-bye.
 
 Outils :
 
--Unity
+- Unity
 
--Aseprite(Pixel Art)
+- Aseprite(Pixel Art)
 
--Visual Studio(C#)
+- Visual Studio(C#)
