@@ -6,3 +6,10 @@ J'ai quelques idées pour ce projet(Univers Post-apo, shooter-platformer en coop
 celui-ci est donc actuellement en stand-bye.
 
 
+Outils :
+
+-Unity
+
+-Aseprite(Pixel Art)
+
+-Visual Studio(C#)
